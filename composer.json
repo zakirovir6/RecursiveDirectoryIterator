@@ -1,5 +1,5 @@
 {
-	"name": "zakirovir6/DirectoryIteratorRecursive",
+	"name": "zakirovir6/RecursiveDirectoryIterator",
 	"description": "PHP, based on opendir, readdir, rewinddir ",
 	"type": "library",
 	"version": "1.0.0",

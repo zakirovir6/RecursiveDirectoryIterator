@@ -1,0 +1,23 @@
+{
+	"name": "zakirovir6/DirectoryIteratorRecursive",
+	"description": "PHP, based on opendir, readdir, rewinddir ",
+	"type": "library",
+	"version": "1.0.0",
+	"time": "2017-05-05 23:59:59",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.5"
+	},
+	"authors": [
+		{
+			"name": "Igor Zakirov",
+			"email": "zakirovir6@gmail.com",
+			"role": "Maintainer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Zakirovir\\": "src/"
+		}
+	}
+}

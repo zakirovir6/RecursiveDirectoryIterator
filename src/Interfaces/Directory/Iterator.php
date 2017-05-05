@@ -6,7 +6,7 @@
  * Time: 2:26
  */
 
-namespace Interfaces\Directory;
+namespace Zakirovir6\Interfaces\Directory;
 
 
 interface Iterator extends \Iterator

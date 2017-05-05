@@ -6,7 +6,7 @@
  * Time: 2:16
  */
 
-namespace Directory;
+namespace Zakirovir6\Directory;
 
 class MetaFile
 {

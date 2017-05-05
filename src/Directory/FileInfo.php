@@ -6,7 +6,7 @@
  * Time: 3:23
  */
 
-namespace Directory;
+namespace Zakirovir6\Directory;
 
 
 class FileInfo

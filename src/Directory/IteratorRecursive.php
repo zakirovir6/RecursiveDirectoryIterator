@@ -6,10 +6,10 @@
  * Time: 1:08
  */
 
-namespace Directory;
+namespace Zakirovir6\Directory;
 
 
-use Interfaces\Directory\Iterator as IIterator;
+use Zakirovir6\Interfaces\Directory\Iterator as IIterator;
 
 class IteratorRecursive implements IIterator
 {

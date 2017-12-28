@@ -2,7 +2,7 @@
 	"name": "zakirovir6/RecursiveDirectoryIterator",
 	"description": "PHP, based on opendir, readdir, rewinddir ",
 	"type": "library",
-	"version": "1.0.0",
+	"version": "v1.0.0",
 	"time": "2017-05-05 23:59:59",
 	"license": "MIT",
 	"require": {
